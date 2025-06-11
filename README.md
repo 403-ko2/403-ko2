@@ -1,5 +1,5 @@
 ## Hi there 👋
-Autumn is crazy
+Autumn is no longer crazy
 
 <!--
 **403-ko2/403-ko2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
