@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you dont
 - 😄 Pronouns: what do you think
 - ⚡ Fun fact: im pretty cool
--->
