@@ -1,4 +1,7 @@
-## Hi there, I go by Zae 🍂
+## Yo, I go by Zae 🍂
+
+# Get in Touch with me
+
 
 🔭 I’m currently working on my Capstone: Creating + designing a Video Game from scratch, engine and all!
 🌱 My stack now includes Java and Python
