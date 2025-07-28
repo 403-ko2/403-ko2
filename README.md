@@ -1,7 +1,7 @@
 ## Hi there, I go by Zae 🍂
 
 🔭 I’m currently working on my Capstone: Creating + designing a Video Game from scratch, engine and all!
-🌱 I’m currently using Java and Python
+🌱 My stack now includes Java and Python
 💬 Ask me about anything
 ⚡ Fun fact: im pretty cool
 <!--
