@@ -2,6 +2,8 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Hello,+Vault+Dweller!&font=Fira+Code&color=00FF00&size=24)
 
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Hello,+Vault+Dweller!;Stats+Loading...&font=Fira+Code&color=00FF00&size=24)
+
 ### 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
