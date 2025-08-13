@@ -7,13 +7,15 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 
-## 🪩 Get in Touch with me 🍂
+## Get in Touch with me 🍂
 
 🔭 Currently I am working on making Gungi (open source board-game) the next Chess.com! + working on an app for DIY electritions in a household!
 recently I Created + designing a Video Game from scratch, engine and all!
 🌱 My stack now includes Java and Python
 💬 Ask me about anything
 ⚡ Fun fact: im pretty cool
+
+### Ancora Imparo
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡿⠛⢶⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣦⠀⣠⡾⠛⠙⠛⠋⠀⠀⠀⠈⠉⠛⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
