@@ -1,4 +1,6 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Greetings,+Git+Dweller+!;Im+Zae;yes+its+an+alias;Stats+Loading...&font=Monofonto+Code&color=00FF00&size=30)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Hello,+Vault+Dweller!;Stats+Loading...&font=Fira+Code&color=00FF00&size=24&pause=500&speed=30)
+
 
 ### 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
