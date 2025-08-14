@@ -2,6 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Zae's+System...;Welcome,+Git+Dweller!;Im+Zae+(yes+its+an+alias)&font=Fira+Code&color=00FF00&size=22&pause=200&speed=25&repeat=false" />
 </p>
 
+## Get in Touch with me 🍂
+
+🔭 Currently I am working on making Gungi (open source board-game) the next Chess.com! + working on an app for DIY electritions in a household!  
+recently I Created + designing a Video Game from scratch, engine and all!
+🌱 My stack now includes Java and Python
+💬 Ask me about anything
+⚡ Fun fact: im pretty cool
 
 ## 🚀 Tech Stack
 <!-- Programming Languages -->
@@ -33,14 +40,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-## Get in Touch with me 🍂
-
-🔭 Currently I am working on making Gungi (open source board-game) the next Chess.com! + working on an app for DIY electritions in a household!
-recently I Created + designing a Video Game from scratch, engine and all!
-🌱 My stack now includes Java and Python
-💬 Ask me about anything
-⚡ Fun fact: im pretty cool
 
   ### Ancora Imparo
 
