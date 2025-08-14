@@ -18,14 +18,14 @@
 Portfolio [Hacked by martians: Under Construction]
 
 ## ⚡ Top 5s:
-Anime / source material   
+#### Anime / source material   
 1. Re:Zero (Re: Starting Life in Another World From Zero)
 2. Hunter x Hunter
 3. Full Metal Alchemist
 4. Attack on Titan
 5. Mushoku Tensei
 
-Video Games (single player or multiplayer that i've played)  
+#### Video Games (single player or multiplayer that i've played)  
 1. Bloodborne
 2. Black Ops 2
 3. Super Smash Bros.
@@ -34,7 +34,7 @@ Video Games (single player or multiplayer that i've played)
 Honerable Mention  
 Earthbound (aka Mother 1 + 2)
 
-Books (series, poems, short stories, etc)
+#### Books (series, poems, short stories, etc)
 1. A Song of Ice and Fire  
 2. Hamlet  
 3. The Catcher in the Rye (Honestly anything by J.D Salinger)  
