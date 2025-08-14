@@ -15,37 +15,9 @@
 
 💬 Ask me about Music, Books, Gungi, Day Trading, Programming, or my Top 5 anything lol  
 
-Portfolio [Hacked by martians: Under Construction]
+Portfolio [Hacked by martians: Under Construction]  
 
-## ⚡ Top 5s:
-#### Anime / source material   
-1. Re:Zero (Re: Starting Life in Another World From Zero)
-2. Hunter x Hunter
-3. Full Metal Alchemist
-4. Attack on Titan
-5. Mushoku Tensei
-
-#### Video Games (single player or multiplayer that i've played)  
-1. Bloodborne
-2. Black Ops 2
-3. Super Smash Bros.
-4. Minecraft
-5. Skyrim  
-
-Honerable Mention  
-Earthbound (aka Mother 1 + 2)
-
-#### Books (series, poems, short stories, etc)
-1. A Song of Ice and Fire  
-2. Hamlet  
-3. The Catcher in the Rye (Honestly anything by J.D Salinger)  
-4. HP Lovecrafts Short Stories  
-5. Leech  
-
-Honerable Mention  
-re:Zero (web novel)  
-
-okay i'm done being silly lets get techie
+lets get techie
 
 ## 🚀 Tech Stack
 <!-- Programming Languages -->
@@ -76,7 +48,33 @@ okay i'm done being silly lets get techie
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## ⚡ Top 5s:
+#### Anime / source material   
+1. Re:Zero (Re: Starting Life in Another World From Zero)
+2. Hunter x Hunter
+3. Full Metal Alchemist
+4. Attack on Titan
+5. Mushoku Tensei
 
+#### Video Games (single player or multiplayer that i've played)  
+1. Bloodborne
+2. Black Ops 2
+3. Super Smash Bros.
+4. Minecraft
+5. Skyrim  
+
+Honerable Mention  
+Earthbound (aka Mother 1 + 2)
+
+#### Books (series, poems, short stories, etc)
+1. A Song of Ice and Fire  
+2. Hamlet  
+3. The Catcher in the Rye (Honestly anything by J.D Salinger)  
+4. HP Lovecrafts Short Stories  
+5. Leech  
+
+Honerable Mention  
+re:Zero (web novel)  
 
   ### Ancora Imparo
 
