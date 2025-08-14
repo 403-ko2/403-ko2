@@ -33,7 +33,16 @@ Video Games (single player or multiplayer that i've played)
 5. Skyrim
 Honerable Mention  
 Earthbound (aka Mother 1 + 2)
-  
+
+Books (series, poems, short stories, etc)
+1. A Song of Ice and Fire  
+2. Hamlet  
+3. The Catcher in the Rye (Honestly anything by J.D Salinger)  
+4. HP Lovecrafts Short Stories  
+5. Leech  
+Honerable Mention  
+re:Zero (web novel)  
+
 mas...
 
 
