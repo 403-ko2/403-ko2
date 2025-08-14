@@ -56,9 +56,13 @@ lets get techie
   
 <summary>Anime + source material</summary>
 1. Re:Zero (Re: Starting Life in Another World From Zero)  
-2. Hunter x Hunter  
-3. Full Metal Alchemist  
-4. Attack on Titan  
+
+2. Hunter x Hunter
+   
+3. Full Metal Alchemist
+   
+4. Attack on Titan
+   
 5. Mushoku Tensei  
 </details>
 
@@ -66,9 +70,13 @@ lets get techie
   
 <summary>Video Games (single player or multiplayer that i've played)</summary>
 1. Bloodborne  
-2. Black Ops 2  
-3. Super Smash Bros.  
-4. Minecraft  
+
+2. Black Ops 2
+   
+3. Super Smash Bros.
+   
+4. Minecraft
+  
 5. Skyrim    
 
 Honerable Mention    
@@ -78,11 +86,16 @@ Earthbound (aka Mother 1 + 2)
 <details>
   
 <summary>Books (series, poems, short stories, etc)</summary>
-1. A Song of Ice and Fire    
-2. Hamlet    
-3. The Catcher in the Rye (Honestly anything by J.D Salinger)    
-4. HP Lovecrafts Short Stories    
-5. Leech    
+1. A Song of Ice and Fire  
+
+2. Hamlet
+   
+3. The Catcher in the Rye (Honestly anything by J.D Salinger)
+   
+4. HP Lovecrafts Short Stories
+   
+5. Leech
+   
 
 Honerable Mention    
 re:Zero (web novel)  
