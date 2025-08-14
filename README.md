@@ -30,7 +30,8 @@ Portfolio [Hacked by martians: Under Construction]
 2. Black Ops 2
 3. Super Smash Bros.
 4. Minecraft
-5. Skyrim
+5. Skyrim  
+
 Honerable Mention  
 Earthbound (aka Mother 1 + 2)
 
@@ -40,6 +41,7 @@ Earthbound (aka Mother 1 + 2)
 3. The Catcher in the Rye (Honestly anything by J.D Salinger)  
 4. HP Lovecrafts Short Stories  
 5. Leech  
+
 Honerable Mention  
 re:Zero (web novel)  
 
