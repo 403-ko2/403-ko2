@@ -1,8 +1,5 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Hello,+Vault+Dweller!;Stats+Loading...&font=Monospace&color=00FF00&size=24&pause=500&speed=30)
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Vault+System...;Welcome,+Vault+Dweller!;Loading+Stats+Modules...&font=Fira+Code&color=00FF00&size=22&pause=200&speed=25&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Zae's+System...;Welcome,+Git+Dweller!;Im+Zae&font=Fira+Code&color=00FF00&size=22&pause=200&speed=25&repeat=false" />
 </p>
 
 
