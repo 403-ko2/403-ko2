@@ -1,4 +1,6 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Hello,+Git+Dweller!;Stats+Loading...&font=Fira+Code&color=00FF00&size=24&pause=500&speed=30)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Vault+Dweller!;Stats+Loading...&font=Fira+Code&color=00FF00&size=24&pause=500&speed=30" />
+</p>
 
 
 ### 🚀 Tech Stack
