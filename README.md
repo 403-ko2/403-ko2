@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Zae's+System...;Welcome,+Git+Dweller!;Im+Zaecorra+(yes+its+an+alias)&font=Fira+Code&color=00FF00&size=22&pause=200&speed=25&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Zae's+System+.+.+.;Welcome,+Git+Dweller!;Im+Zaecorra+(yes+its+an+alias)&font=Fira+Code&color=00FF00&size=22&pause=200&speed=25&repeat=false" />
 </p>
 
 ## Get in Touch with me 🍂
