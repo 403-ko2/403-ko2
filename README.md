@@ -54,7 +54,8 @@ lets get techie
 ## ⚡ Top 5s:
 <details>
   
-<summary>Anime + source material</summary>
+<summary>Anime + source material</summary>  
+
 1. Re:Zero (Re: Starting Life in Another World From Zero)  
 
 2. Hunter x Hunter
@@ -68,7 +69,8 @@ lets get techie
 
 <details>
   
-<summary>Video Games (single player or multiplayer that i've played)</summary>
+<summary>Video Games (single player or multiplayer that i've played)</summary>  
+
 1. Bloodborne  
 
 2. Black Ops 2
@@ -85,7 +87,8 @@ Earthbound (aka Mother 1 + 2)
 
 <details>
   
-<summary>Books (series, poems, short stories, etc)</summary>
+<summary>Books (series, poems, short stories, etc)</summary>  
+
 1. A Song of Ice and Fire  
 
 2. Hamlet
