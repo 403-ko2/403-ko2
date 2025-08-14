@@ -3,10 +3,40 @@
 </p>
 
 
-### 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+## 🚀 Tech Stack
+<!-- Programming Languages -->
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-00FF00?style=for-the-badge&logo=java&logoColor=000000) |
+![Go](https://img.shields.io/badge/Go-00FF00?style=for-the-badge&logo=go&logoColor=000000) |
+![TypeScript](https://img.shields.io/badge/TypeScript-00FF00?style=for-the-badge&logo=typescript&logoColor=000000) |
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) | 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) | 
+
+<!-- Frameworks / Libraries -->
+### Frameworks / Libraries
+![React](https://img.shields.io/badge/React-00FF00?style=for-the-badge&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-00FF00?style=for-the-badge&logo=next.js&logoColor=000000)
+![Tailwind](https://img.shields.io/badge/Tailwind-00FF00?style=for-the-badge&logo=tailwind-css&logoColor=000000)
+
+<!-- Backend / Database -->
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-00FF00?style=for-the-badge&logo=node.js&logoColor=000000)
+![Postgres](https://img.shields.io/badge/PostgreSQL-00FF00?style=for-the-badge&logo=postgresql&logoColor=000000)
+
+<!-- Editors / Tools -->
+### Editors / Tools
+![NeoVim](https://img.shields.io/badge/NeoVim-00FF00?style=for-the-badge&logo=neovim&logoColor=000000)
+![VS Code](https://img.shields.io/badge/VS%20Code-00FF00?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-00FF00?style=for-the-badge&logo=intellijidea&logoColor=000000)
+![Cursor](https://img.shields.io/badge/Cursor-00FF00?style=for-the-badge&logo=cursor&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=000000)
+
+<!-- Other -->
+![Git](https://img.shields.io/badge/Git-00FF00?style=for-the-badge&logo=git&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-00FF00?style=for-the-badge&logo=docker&logoColor=000000)
+![HTML](https://img.shields.io/badge/HTML-00FF00?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS](https://img.shields.io/badge/CSS-00FF00?style=for-the-badge&logo=css3&logoColor=000000)
+
 
 ## Get in Touch with me 🍂
 
