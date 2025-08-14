@@ -49,7 +49,7 @@ lets get techie
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## ⚡ Top 5s:
-#### Anime / source material   
+#### Anime + source material   
 1. Re:Zero (Re: Starting Life in Another World From Zero)
 2. Hunter x Hunter
 3. Full Metal Alchemist
