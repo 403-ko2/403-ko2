@@ -13,7 +13,9 @@
 
 🌱 I'm growing a YouTube Channel!  
 
-💬 Ask me Gungi, Day Trading, Programming, or my Top 5 anything lol  
+💬 Ask me about Music, Books, Gungi, Day Trading, Programming, or my Top 5 anything lol  
+
+Portfolio [Hacked by martians: Under Construction]
 
 ## ⚡ Top 5s:
 Anime / source material   
@@ -31,6 +33,8 @@ Video Games (single player or multiplayer that i've played)
 5. Skyrim
 Honerable Mention  
 Earthbound (aka Mother 1 + 2)
+  
+mas...
 
 
 ## 🚀 Tech Stack
