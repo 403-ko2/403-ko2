@@ -45,8 +45,7 @@ Earthbound (aka Mother 1 + 2)
 Honerable Mention  
 re:Zero (web novel)  
 
-mas...
-
+okay i'm done being silly lets get techie
 
 ## 🚀 Tech Stack
 <!-- Programming Languages -->
