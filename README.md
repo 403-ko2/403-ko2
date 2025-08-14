@@ -5,10 +5,30 @@
 ## Get in Touch with me 🍂
 
 🔭 Currently I am working on making Gungi (open source board-game) the next Chess.com! + working on an app for DIY electritions in a household!  
-recently I Created + designing a Video Game from scratch, engine and all!
-🌱 My stack now includes Java and Python
-💬 Ask me about anything
-⚡ Fun fact: im pretty cool
+
+🦾 Recently I Created + designed my first 2D RPG Video Game from scratch, engine and all!  
+
+🌱 I'm growing a YouTube Channel!  
+
+💬 Ask me Gungi, Day Trading, Programming, or my Top 5 anything lol  
+
+## ⚡ Top 5s:
+Anime / source material   
+1. Re:Zero (Re: Starting Life in Another World From Zero)
+2. Hunter x Hunter
+3. Full Metal Alchemist
+4. Attack on Titan
+5. Mushoku Tensei
+
+Video Games (single player or multiplayer that i've played)  
+1. Bloodborne
+2. Black Ops 2
+3. Super Smash Bros.
+4. Minecraft
+5. Skyrim
+Honerable Mention  
+Earthbound (aka Mother 1 + 2)
+
 
 ## 🚀 Tech Stack
 <!-- Programming Languages -->
