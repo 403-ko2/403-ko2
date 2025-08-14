@@ -7,7 +7,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZ3FK6bzGQ-2MSNcoGETizw)
 
 
-🔭 Currently I am working on making Gungi (open source board-game) the next Chess.com! + working on an app for DIY electritions in a household!  
+🔭 Currently I am working on making Gungi (open source boardgame) the next Chess.com! + working on an app for DIY electritions in a household!  
 
 🦾 Recently I Created + designed my first 2D RPG Video Game from scratch, engine and all!  
 
