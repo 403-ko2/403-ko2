@@ -6,9 +6,10 @@
 ## 🚀 Tech Stack
 <!-- Programming Languages -->
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-00FF00?style=for-the-badge&logo=java&logoColor=000000) |
-![Go](https://img.shields.io/badge/Go-00FF00?style=for-the-badge&logo=go&logoColor=000000) |
-![TypeScript](https://img.shields.io/badge/TypeScript-00FF00?style=for-the-badge&logo=typescript&logoColor=000000) |
+![Java](https://img.shields.io/badge/Java-00CC00?style=for-the-badge&logo=java&logoColor=000000)
+![Go](https://img.shields.io/badge/Go-00CC00?style=for-the-badge&logo=go&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-00CC00?style=for-the-badge&logo=typescript&logoColor=000000)
+ |
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) | 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) | 
 
