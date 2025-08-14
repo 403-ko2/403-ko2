@@ -14,30 +14,24 @@
 
 <!-- Frameworks / Libraries -->
 ### Frameworks / Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!-- Editors / Tools -->
+### Editors / Tools
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- Backend / Database -->
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-00FF00?style=for-the-badge&logo=node.js&logoColor=000000)
-![Postgres](https://img.shields.io/badge/PostgreSQL-00FF00?style=for-the-badge&logo=postgresql&logoColor=000000)
-
-<!-- Editors / Tools -->
-### Editors / Tools
-![NeoVim](https://img.shields.io/badge/NeoVim-00FF00?style=for-the-badge&logo=neovim&logoColor=000000)
-![VS Code](https://img.shields.io/badge/VS%20Code-00FF00?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-00FF00?style=for-the-badge&logo=intellijidea&logoColor=000000)
-![Cursor](https://img.shields.io/badge/Cursor-00FF00?style=for-the-badge&logo=cursor&logoColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=000000)
-
-<!-- Other -->
-![Git](https://img.shields.io/badge/Git-00FF00?style=for-the-badge&logo=git&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-00FF00?style=for-the-badge&logo=docker&logoColor=000000)
-![HTML](https://img.shields.io/badge/HTML-00FF00?style=for-the-badge&logo=html5&logoColor=000000)
-![CSS](https://img.shields.io/badge/CSS-00FF00?style=for-the-badge&logo=css3&logoColor=000000)
 
 
 ## Get in Touch with me 🍂
