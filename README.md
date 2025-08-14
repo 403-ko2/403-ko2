@@ -1,6 +1,4 @@
-# ✌️ Yo, I go by Zae 🍂
-
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Hello,+Git+Dweller!;Stats+Loading...&font=Monofonto+Code&color=00FF00&size=24)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Hello,+Git+Dweller!;Stats+Loading...&font=Monofonto+Code&color=00FF00&size=40)
 
 ### 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
