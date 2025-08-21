@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Initializing+Zae%27s+System...;Welcome%2C+Git+Dweller%21;I%27m+Zaecorra+%28yes+it%27s+an+alias%29&font=Fira+Code&color=00FF00&size=22&pause=1000&speed=50&repeat=false" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Initializing+Zae%27s+System...;Welcome%2C+Git+Dweller%21;I%27m+Zaecorra+%28yes+an+alias%29&font=Fira+Code&color=00FF00&size=22&pause=1000&speed=50&repeat=false" />
 </p>
 
 ## Get in Touch with me 🍂
