@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zae-correa/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZ3FK6bzGQ-2MSNcoGETizw)
 
-pssst... my real name is Jose I just go by zaecorra (my first + last name con sazón) 🤫
+pssst, my real name is Jose I just go by zaecorra (my first + last name con sazón) 🤫
 
 🔭 Currently I am working on making Gungi (open source boardgame) the next Chess.com! + working on an app for DIY electritions in a household!  
 
