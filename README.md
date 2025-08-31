@@ -12,7 +12,7 @@ pssst, my real name is Jose I just go by zaecorra (my first + last name con saz�
 
 🦾 Recently I Created + designed my first 2D RPG Video Game from scratch, engine and all!  
 
-🌱 I'm growing a YouTube Channel!  
+🌱 I'm growing a YouTube Channel about having fun creating things!  
 
 💬 Ask me about Music, Books, Gungi, Day Trading, Programming, or my Top 5 anything lol  
 
