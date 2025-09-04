@@ -18,7 +18,7 @@ pssst, my real name is Jose I just go by zaecorra (my first + last name con sazÃ
 
 Portfolio [Hacked by martians: Under Construction]  
 
-lets get techie
+lets get techy
 
 ## ğŸš€ Tech Stack
 <!-- Programming Languages -->
