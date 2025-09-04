@@ -72,7 +72,7 @@ lets get techie
   
 <summary>Video Games (single player or multiplayer that i've played)</summary>  
 
-1. Bloodborn
+1. Bloodborne
 
 2. Black Ops 2
    
