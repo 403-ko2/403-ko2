@@ -74,7 +74,7 @@ lets get techie
 
 1. Bloodborne
 
-2. Black Ops 2
+2. Black Ops (1,2 or 3)
    
 3. Super Smash Bros.
    
