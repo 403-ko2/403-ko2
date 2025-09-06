@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Initializing+JEM+...;Welcome%2C+Git+Dweller%21;I%27m+Zaecorra+%28yes+an+alias%29&font=Fira+Code&color=00FF00&size=22&pause=1000&speed=50&repeat=false" />
 </p>
 
-## Get in Touch with me 🚀
+## Get in Touch with me 🐸
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zae-correa/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZ3FK6bzGQ-2MSNcoGETizw)
 
