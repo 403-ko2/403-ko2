@@ -55,8 +55,8 @@ lets get techie
 
 ## ⚡ Top 5s:
 <details>
-  
-<summary>Anime + source material</summary>  
+
+<summary>Anime + source material</summary>
 
 1. Re:Zero (Re: Starting Life in Another World From Zero)  
 
