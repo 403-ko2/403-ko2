@@ -103,7 +103,7 @@ Earthbound (aka Mother 1 + 2)
    
 
 Honerable Mention    
-re:Zero (web novel)  
+re:Zero (web novel)
 </details>
 
   ### Ancora Imparo
