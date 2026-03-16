@@ -17,7 +17,7 @@ I started my software journey as a web developer!
 
 💬 Ask me about Music, Books, Gungi, Day Trading, Programming, or my Top 5 anything lol  
 
-Portfolio [Hacked by martians: Under Construction]  
+Portfolio   
 
 lets get techie
 
